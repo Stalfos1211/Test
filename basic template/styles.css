@@ -1,0 +1,16 @@
+/**
+ * @author Workstation
+ */
+
+
+html, body, div, nav, ul, li{
+	margin: 0; padding: 0;
+}
+
+html,body{
+    width: 100%
+}
+
+body{
+    background: #e3e3e3;
+}
